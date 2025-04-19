@@ -1,3 +1,6 @@
+https://big.oisd.nl/
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt

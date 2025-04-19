@@ -1,1 +1,1 @@
-This is my personal blocklist I used
+Compilation of link to redirect filterlist
